@@ -10,31 +10,31 @@
 	<string>ui-v1</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>B069BDA2DCB9FEBDA6C35D85F31E3229ED0702A2</key>
-		<string>https://github.com/onlyexcellence/projects.git</string>
+		<key>A85CB3DC177555C470380DB1863D6144F753A970</key>
+		<string>github.com:onlyexcellence/ui-v1.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>iOS/ui-v1/ui-v1.xcodeproj</string>
+	<string>ui-v1.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>B069BDA2DCB9FEBDA6C35D85F31E3229ED0702A2</key>
-		<string>../../../..</string>
+		<key>A85CB3DC177555C470380DB1863D6144F753A970</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/onlyexcellence/projects.git</string>
+	<string>github.com:onlyexcellence/ui-v1.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>B069BDA2DCB9FEBDA6C35D85F31E3229ED0702A2</string>
+	<string>A85CB3DC177555C470380DB1863D6144F753A970</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>B069BDA2DCB9FEBDA6C35D85F31E3229ED0702A2</string>
+			<string>A85CB3DC177555C470380DB1863D6144F753A970</string>
 			<key>IDESourceControlWCCName</key>
-			<string>PNEW</string>
+			<string>ui-v1</string>
 		</dict>
 	</array>
 </dict>
